@@ -1,0 +1,31 @@
+.Cabezera {
+background-color: rgb(27, 12, 124);
+text-align: center;
+}
+.izquierda {
+    flex: 1;
+    background-color: rgb(220, 10, 10);
+    text-align: center;
+}
+.central{
+    flex: 2;
+    background-color: rgb(255, 255, 2);
+    text-align: center;
+}
+
+.derecha{
+    flex: 1;
+    background-color: rgb(36, 137, 11);
+    text-align: left;
+}
+
+.izquierdaBajo{
+    flex: 1;
+    background-color: rgb(229, 32, 32);
+
+}
+
+.derechaBajo{
+    flex: 1;
+    background-color: rgb(235, 149, 230);
+}
